@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652492894953",
+    "project_id": "dog-decision-game",
+    "storage_bucket": "dog-decision-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652492894953:android:6f6f27bc4327a5353a7678",
+        "android_client_info": {
+          "package_name": "com.dogdecisiongame.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTtQqVLIoLawKvxCR1nDTR3NJEXHmzNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652492894953:android:223b92fed86b6d513a7678",
+        "android_client_info": {
+          "package_name": "com.example.dog_decision_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTtQqVLIoLawKvxCR1nDTR3NJEXHmzNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
